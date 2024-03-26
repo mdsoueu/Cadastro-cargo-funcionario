@@ -1,6 +1,5 @@
 const Sequelize = require('sequelize');
 const expresss = require('express');
-const { where } = require('sequelize');
 const servidor = expresss();
 servidor.use(expresss.json());
 
