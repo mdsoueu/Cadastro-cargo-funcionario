@@ -58,6 +58,8 @@ const Usuario = conexao.define('usuario', {
             model: Cargo,
             key: 'codigo'
         }
+        // ,
+        // onDelete: 'CASTADE'
     }
 }, { timestamps: false });
 
