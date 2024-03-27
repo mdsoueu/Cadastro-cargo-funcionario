@@ -1,6 +1,6 @@
 A API criada contempla os seguintes requisitos:
 
-CRUD de cargos:
+CRUD de cargos: </br>
 POST - Rota para criar um cargo </br>
 GET - Rota para consultar um ou mais cargos </br>
 PUT - Rota para atualizar um cargo </br>
