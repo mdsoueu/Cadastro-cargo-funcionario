@@ -6,7 +6,7 @@ GET - Rota para consultar um ou mais cargos </br>
 PUT - Rota para atualizar um cargo </br>
 DELETE - Rota para remover um cargo </br>
 
-CRUD de funcionários, sendo que o funcionário tem relacionamento com cargo (chave estrangeira):
+CRUD de funcionários, sendo que o funcionário tem relacionamento com cargo (chave estrangeira): </br>
 POST - Rota para criar um funcionário </br>
 GET - Rota para consultar um ou mais funcionários </br>
 PUT - Rota para atualizar um funcionário </br>
