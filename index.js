@@ -116,7 +116,7 @@ servidor.put('/principalCargo/:id', (requisicao, resposta) => {
     });
 });
 /* DELETE */
-/*http://localhost:4300/principalCargo/3 */
+/* http://localhost:4300/principalCargo/3 */
 servidor.delete('/principalCargo/:id', (requisicao, resposta) => {
     const id = requisicao.params.id;
 
